@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achmadzano&label=Profile%20views&color=0e75b6&style=flat" alt="achmadzano" /> </p>
 
-- 🌱 I am currently focused on  **Database Technology**
+I am an undergraduate computer science student concentrating on **database technology** at BINUS University. With my persistent and consistent effort especially toward my interest in **big data analytics** and **web development**, I look forward to embracing new challenges and opportunities that will help me further develop my skills and expertise
 
 - 👨‍💻 All of my projects are available at [https://github.com/achmadzano](https://github.com/achmadzano)
 
