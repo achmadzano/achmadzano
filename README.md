@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achmadzano&label=Profile%20views&color=0e75b6&style=flat" alt="achmadzano" /> </p>
 
-- 🌱 I’m currently learning **Big Data Processing**
+- 🌱 I am currently focused on  **Database Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/achmadzano](https://github.com/achmadzano)
 
