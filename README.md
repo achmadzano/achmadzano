@@ -19,6 +19,3 @@ I am an undergraduate computer science student concentrating on **database techn
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achmadzano&show_icons=true&locale=en&layout=compact" alt="achmadzano" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achmadzano&show_icons=true&locale=en" alt="achmadzano" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achmadzano&" alt="achmadzano" /></p>
