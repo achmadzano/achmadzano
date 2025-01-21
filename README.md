@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Achmad Fauzan</h1>
-<h3 align="center">Undergraduate Computer Science Student at BINUS University</h3>
+<h3 align="center">Client Engineer Intern @ IBM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achmadzano&label=Profile%20views&color=0e75b6&style=flat" alt="achmadzano" /> </p>
 
-I am an undergraduate computer science student concentrating on **database technology** at **BINUS University**. With my persistent and consistent effort especially toward my interest in **big data analytics** and **web development**, I look forward to embracing new challenges and opportunities that will help me further develop my skills and expertise
+Dynamic tech professional with a focus on client engineering, currently gaining hands-on experience through internships at IBM and IBM-JTI. Bringing a solid foundation in computer science, complemented by a commitment to developing innovative solutions. Proficient in understandingclient needs and collaborating effectively within teams to deliver impactful results. Eager to leverage skills in technology and problem-solving in a dedicated client engineering role
 
 - 👨‍💻 All of my projects are available at [https://github.com/achmadzano](https://github.com/achmadzano)
 
